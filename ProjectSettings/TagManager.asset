@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Floor
+  - Enemy
+  - HealthPickup
+  - ScorePickup
+  - Projectile
+  - PlayerAttack
+  - Spike
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Effects
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1545559037
+    locked: 0
+  - name: StageBG
+    uniqueID: 2220014985
+    locked: 0
+  - name: StageForeGround
+    uniqueID: 398949691
+    locked: 0
+  - name: Player
+    uniqueID: 2037675971
+    locked: 0
+  - name: StageFrontGround
+    uniqueID: 1252314515
+    locked: 0
+  - name: Effects
+    uniqueID: 3162611869
+    locked: 0
